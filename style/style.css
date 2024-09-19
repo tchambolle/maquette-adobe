@@ -1,0 +1,25 @@
+header {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+
+header * {
+    display: inline;
+    font-family: 'Helvetica Neue';
+    text-decoration: none;
+
+}
+
+#navbar {
+    padding-left: 225px;
+}
+
+header a {
+    margin:20px;
+}
