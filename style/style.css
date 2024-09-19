@@ -16,8 +16,14 @@ header * {
 
 }
 
-#navbar {
-    padding-left: 225px;
+#navbar-left {
+    display:block;
+    padding-left: 550px;
+}
+
+#navbar-right {
+    padding-left: 100px;
+    float: right;
 }
 
 header a {
